@@ -1,3 +1,3 @@
 if has("autocmd")
-  au  BufNewFile,BufRead *.mustache,*.handlebars,*.hbs,*.hogan,*.hulk set filetype=mustache
+  au  BufNewFile,BufRead *.mustache,*.stache,*.mstache,*.ms,*.handlebars,*.hbs,*.hogan,*.hulk set filetype=mustache
 endif
