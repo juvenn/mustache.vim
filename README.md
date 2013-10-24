@@ -1,6 +1,9 @@
 Vim for Mustache and Handlebars
 ===============================
 
+**Note**: This repo is deprecated, active development moved to
+[mustache/vim-mode](http://github.com/mustache/vim-mode).
+
 mustache.vim is a simple plugin for working with mustache and handlebars
 templates. It has:
  - syntax highlighting,
